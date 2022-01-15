@@ -12,8 +12,9 @@ A Frontend Software Engineer, Technical Writer & Mechatronics Engineer.
 - ✅ React ️
 - ✅ TypeScript
 - ✅ NextJS 
-- ⏳ Node.js  
-- ⏳ Typescript  
+- ✅ React Query
+- ✅ Typescript
+- ⏳ Node.js   
 - ⏳ GraphQL
 
 ## Contact
