@@ -2,14 +2,13 @@
 I am a Software Engineer currently working at Prunedge.
 
 ## Tech Stack
-- ✅ UI/UX  ️
 - ✅ React ️
 - ✅ TypeScript
 - ✅ NextJS 
 - ✅ React Query
 - ✅ Typescript
-- ⏳ Node.js   
-- ⏳ GraphQL
+- ✅ Node.js   
+- ✅ GraphQL
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/chibueze-sam-obisike-635a63167/)
