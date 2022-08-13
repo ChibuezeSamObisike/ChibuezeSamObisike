@@ -1,14 +1,6 @@
 ## Hi I'm Chibueze
 I am a Software Engineer currently working at Prunedge.
-
-## Tech Stack
-- ✅ React ️
-- ✅ TypeScript
-- ✅ NextJS 
-- ✅ React Query
-- ✅ Typescript
-- ✅ Node.js   
-- ✅ GraphQL
+Finding myself....
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/chibueze-sam-obisike-635a63167/)
