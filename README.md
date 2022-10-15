@@ -11,7 +11,7 @@ Finding myself....
 ### Technology Stacks
 - Language: Javascript, Python
 - Messaging: Redis
--Framework: React Native, React, Express, NestJS, NextJS
+- Framework: React Native, React, Express, NestJS, NextJS
 - DBMS: MySQL, PostgreSQL, MongoDB
 - Infrastructure: Docker
 
