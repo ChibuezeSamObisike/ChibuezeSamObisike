@@ -8,6 +8,14 @@ Finding myself....
 - [Hashnode blog](https://chibueze.hashnode.dev/)
 
 
+### Technology Stacks
+- Language: Javascript, Python
+- Messaging: Redis
+-Framework: React Native, React, Express, NestJS, NextJS
+- DBMS: MySQL, PostgreSQL, MongoDB
+- Infrastructure: Docker
+
+
 <a href="https://github.com/chibuezesamobisike">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chibuezesamobisike&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
