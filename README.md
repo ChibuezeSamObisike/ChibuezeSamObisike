@@ -22,3 +22,8 @@ Finding myself....
 <a href="https://github.com/chibuezesamobisike">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibuezesamobisike&theme=nord&langs_count=4&hide=javascript,html,css,erlang" />
 </a>
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/ChibuezeSamObisike/count.svg" />
+</p>
