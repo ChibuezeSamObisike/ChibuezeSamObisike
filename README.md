@@ -29,11 +29,5 @@ Finding myself....
 </p>
 
 ### Some code Samples I love
-```js
- ${this.props.rows.map(row => html`
-        <tr>
-          ${this.props.columns.map(column => html`
-            <td>${this.props.formatValue(row[column.name])}</td>
-          `)}
-        </tr>
-      `)}
+
+<script src="https://gist.github.com/ChibuezeSamObisike/056193eed90cbfd88444704b8ccbbc59.js"></script>
