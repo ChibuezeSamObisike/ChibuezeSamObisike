@@ -30,4 +30,6 @@ Finding myself....
 
 ### Some code Samples I love
 
-<script src="https://gist.github.com/ChibuezeSamObisike/056193eed90cbfd88444704b8ccbbc59.js"></script>
+[<script src="https://gist.github.com/ChibuezeSamObisike/056193eed90cbfd88444704b8ccbbc59.js"></script>]
+
+https://gist.github.com/ChibuezeSamObisike/056193eed90cbfd88444704b8ccbbc59
