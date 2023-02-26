@@ -27,3 +27,13 @@ Finding myself....
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/ChibuezeSamObisike/count.svg" />
 </p>
+
+### Some code Samples I love
+```js
+ ${this.props.rows.map(row => html`
+        <tr>
+          ${this.props.columns.map(column => html`
+            <td>${this.props.formatValue(row[column.name])}</td>
+          `)}
+        </tr>
+      `)}
