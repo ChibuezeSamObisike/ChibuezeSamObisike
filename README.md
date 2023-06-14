@@ -18,6 +18,6 @@ Finding myself....
 
 ### Web component table
 
-[Web component custom table logic](<script src="https://gist.github.com/ChibuezeSamObisike/056193eed90cbfd88444704b8ccbbc59.js"></script>)
+[Web component custom table logic](https://gist.github.com/ChibuezeSamObisike/056193eed90cbfd88444704b8ccbbc59.js")
 
 https://gist.github.com/ChibuezeSamObisike/056193eed90cbfd88444704b8ccbbc59
