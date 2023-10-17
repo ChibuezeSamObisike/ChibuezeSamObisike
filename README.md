@@ -1,6 +1,4 @@
 ## Hi I'm Chibueze
-I am a Software Engineer currently working at Prunedge.
-Finding myself....
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/chibueze-sam-obisike-635a63167/)
