@@ -7,7 +7,7 @@
 
 
 ### Technology Stacks
-- Language: Javascript, Python
+- Language: Javascript, Python, C#
 - Messaging: Redis
 - Framework: React Native, React, Express, NestJS, NextJS
 - DBMS: MySQL, PostgreSQL, MongoDB
